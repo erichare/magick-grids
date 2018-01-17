@@ -2,6 +2,7 @@ library(shiny)
 library(shinythemes)
 library(magick)
 
+# Test comment
 ui <- fluidPage(theme = shinytheme("cerulean"),
    
    titlePanel("Magick Images"),
